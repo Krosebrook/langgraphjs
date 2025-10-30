@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@langchain/langgraph": "workspace:*",
-    "@langchain/langgraph-api": "workspace:*",
+    "@langchain/langgraph-api": "0.0.10",
     "@langchain/langgraph-sdk": "workspace:*",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -24,7 +24,7 @@
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react": "^4.4.1",
-    "hono": "^4.8.2",
+    "hono": "^4.10.3",
     "jsdom": "^26.1.0",
     "msw": "^2.8.2",
     "prettier": "^2.8.3",
